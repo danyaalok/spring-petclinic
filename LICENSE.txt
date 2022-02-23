@@ -1,6 +1,10 @@
 
                                  Apache License
+<<<<<<< HEAD
                            Version 2.0, July 2004
+=======
+                           Version 2.0, August 2004
+>>>>>>> branch2
                         https://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
